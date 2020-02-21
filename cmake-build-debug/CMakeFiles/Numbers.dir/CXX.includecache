@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Studying/Politech/Sem6/I1cow/Numbers/Ratio.h
+iostream
+-
+algorithm
+-
+cassert
+-
+
+C:/Studying/Politech/Sem6/I1cow/Numbers/Real.h
+math.h
+-
+algorithm
+-
+iostream
+-
+Ratio.h
+C:/Studying/Politech/Sem6/I1cow/Numbers/Ratio.h
+
+C:/Studying/Politech/Sem6/I1cow/Numbers/main.cpp
+iostream
+-
+Ratio.h
+C:/Studying/Politech/Sem6/I1cow/Numbers/Ratio.h
+Real.h
+C:/Studying/Politech/Sem6/I1cow/Numbers/Real.h
+

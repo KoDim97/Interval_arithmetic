@@ -1,0 +1,3 @@
+C:/Studying/Politech/Sem6/I1cow/Numbers/cmake-build-debug/CMakeFiles/Numbers.dir
+C:/Studying/Politech/Sem6/I1cow/Numbers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Studying/Politech/Sem6/I1cow/Numbers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
